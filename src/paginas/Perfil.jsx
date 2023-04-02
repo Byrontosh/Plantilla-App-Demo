@@ -1,8 +1,9 @@
-import React from 'react'
 import { CardPerfil } from '../componets/Perfil/CardPerfil'
 import FormularioPerfil from '../componets/Perfil/FormularioPerfil'
 
 const Perfil = () => {
+    
+
     return (
         <>       
             <div>

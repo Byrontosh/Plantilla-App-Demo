@@ -1,6 +1,6 @@
 const FormularioPerfil = () => {
     return (
-        <form>
+        <form >
 
             <div>
                 <label
